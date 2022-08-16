@@ -21,11 +21,7 @@ TBA
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
-: [Neural Networks in NLP - Feedforward Network] 
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
-
-TBA
-: [Neural Networks in NLP - Backprop]
+: [Neural Networks + Backpropagation] 
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
