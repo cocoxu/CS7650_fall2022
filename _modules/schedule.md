@@ -10,7 +10,7 @@ Aug 24
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 25
-: **[Problem Set 0 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set0.pdf)**
+: [Problem Set 0 due (to be released soon)]
 
 TBA
 : [Machine Learning - part 1 (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml.pdf)
@@ -57,51 +57,51 @@ TBA
   : [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
 
 TBA
-: [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-cnn.pdf)
+: [Convolutional Neural Networks + Neural CRFs]
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)  [Goldberg 9](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
-: [Statistical Machine Translation](https://cocoxu.github.io/CS7650_fall2022/slides/lec10-mt.pdf) 
+: [Statistical Machine Translation]
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
-: [Statistical Machine Translation (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec10-mt.pdf) 
+: [Statistical Machine Translation (cont')]
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
-: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2022/slides/lec11-seq2seq.pdf)  [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec11-seq2seq-notes.pdf)] 
+: [Encoder-Decoder + Attention]
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
-: [Copy/Pointer Network + Transformer](https://cocoxu.github.io/CS7650_fall2022/slides/lec12-seq2seq2.pdf) 
+: [Copy/Pointer Network + Transformer]
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
 TBA
-: [Transformer (cont') + Course Project](https://cocoxu.github.io/CS7650_fall2022/slides/lec13-seq2seq3-project.pdf) 
+: [Transformer (cont') + Course Project]
   : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
   
 TBA
-: [Information Extraction + Semantic Role Labeling](https://cocoxu.github.io/CS7650_fall2022/slides/lec14-iesrl.pdf) 
+: [Information Extraction + Semantic Role Labeling]
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
-: [Pretrained Language Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec15-pt1.pdf)
+: [Pretrained Language Models]
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 TBA
-: [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS7650_fall2022/slides/lec16-pt2.pdf)
+: [Pretrained Language Models (part 2) + Ethics]
   : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
 
 TBA
-: [Dialogue](https://cocoxu.github.io/CS7650_fall2022/slides/lec17-dialogue.pdf)
+: [Dialogue]
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf), [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf) 
 
 TBA
-: [Question Answering](https://cocoxu.github.io/CS7650_fall2022/slides/lec18-qa.pdf) 
+: [Question Answering]
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 TBA
-: [Multilingual / Cross-lingual Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec19-multilingual.pdf)
+: [Multilingual / Cross-lingual Models]
   : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf)
 
 Dec 9
