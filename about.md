@@ -31,7 +31,7 @@ There are two excellent NLP textbooks that are freely available online. Readings
 - [Jacob Eisenstein Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - There will be other assigned readings as well.
 
-While the textbooks are free, this class will incur a cost of $20-50 for course materials (i.e., GPU computing using Google [Colab](http://colab.research.google.com/)). 
+While the textbooks are free, this class will incur a cost of $20-50 for course materials (i.e., GPU computing using [Google Colab](http://colab.research.google.com/)). 
 
 The programming assignments will ask you to implement state-of-the-art natural language processing algorithms using neural networks. For this purpose we will use Pytorch, and you will require access to GPUs. The class will use Google Colab, which provides easy access to GPUs. We recommend signing up for Colab Pro (once you start working on the part of the homework that uses PyTorch). This costs $10/month, which is roughly equivalent to the cost of a textbook over the course of the semester. This will provide a better experience working on the homework assignments by providing you access to better GPUs, etc. We have investigated other options to provide students access to GPUs for the homework assignments (Google cloud credits and PACE/ICE), and have found that Colab Pro is the best solution for a class such as this.
 
