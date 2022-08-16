@@ -2,54 +2,47 @@
 title: Schedule (subject to change as the term progresses)
 ---
 Aug 22
-: [Course Introduction](https://cocoxu.github.io/CS7650_fall2022/slides/lec1-intro.pdf)
+: [Course Introduction]
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 24
-: [Machine Learning - part 1](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml-notes.jpg)]
+: [Machine Learning - naive Bayes, logistic regression]
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 25
 : [Problem Set 0 due (to be released soon)]
 
 TBA
-: [Machine Learning - part 1 (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml.pdf)
+: [Machine Learning - SVM, optimization]
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
-: [Machine Learning - part 2](https://cocoxu.github.io/CS7650_fall2022/slides/lec3-mcc.pdf) 
+: [Machine Learning - multiclass classification]
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
-: [Machine Learning - part 2 (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec3-mcc.pdf) 
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
-
-TBA
-: [Neural Networks in NLP](https://cocoxu.github.io/CS7650_fall2022/slides/lec4-nn.pdf) 
+: [Neural Networks in NLP - Feedforward Network] 
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
-: [Neural Networks in NLP (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec4-nn.pdf) 
+: [Neural Networks in NLP - Backprop]
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
-: [Word Embeddings](https://cocoxu.github.io/CS7650_fall2022/slides/lec5-word2vec.pdf)
+: [Word Embeddings]
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
-: [Sequence Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec6-seq1.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec6-seq1-notes.pdf)]
+: [Sequence Models]
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 TBA
-: [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2022/slides/lec7-seq2.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec7-seq2-notes.pdf)] 
+: [Conditional Random Fields]
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBA
-: [Conditional Random Fields (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec7-seq2.pdf)
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
-: [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec8-rnn.pdf)
+: [Recurrent Neural Networks]
   : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA 
