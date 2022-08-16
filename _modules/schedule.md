@@ -46,19 +46,15 @@ TBA
   : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA 
-:
-  : [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
-
+: [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
+  : 
+  
 TBA
 : [Convolutional Neural Networks + Neural CRFs]
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)  [Goldberg 9](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
 : [Statistical Machine Translation]
-  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
-TBA
-: [Statistical Machine Translation (cont')]
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
@@ -74,7 +70,7 @@ TBA
   : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
   
 TBA
-: [Information Extraction + Semantic Role Labeling]
+: [Information Extraction]
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
@@ -82,7 +78,7 @@ TBA
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 TBA
-: [Pretrained Language Models (part 2) + Ethics]
+: [Pretrained Language Models (cont') + Ethics]
   : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
 
 TBA
