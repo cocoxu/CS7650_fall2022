@@ -10,15 +10,18 @@ Aug 24
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 25
-: [Problem Set 0 due (to be released soon)]
+: [Problem Set 0 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_0.pdf)
 
-TBA
+Aug 29
 : [Machine Learning - SVM, optimization]
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
-TBA
+Aug 31
 : [Machine Learning - multiclass classification]
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
+Sep 2
+: [Project 0 due](https://colab.research.google.com/drive/1IBHknL6Ptik3OSdipKRP3mhJR8qufzmt?usp=sharing)
 
 TBA
 : [Neural Networks + Backpropagation] 
