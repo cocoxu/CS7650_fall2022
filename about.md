@@ -71,7 +71,7 @@ The midterm will be similar in format to the written assignments (problem sets).
 
 ### Final Project - 30%
 
-The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. A general guideline is that the final project should be roughly on par with the efforts needed for Project 3 (multiplied by the number of students in the group). The final project report should be 4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
+The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-3. It is a good idea to discuss your planned project with the instructor to get feedback. The final project report should be 8 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
 
 The grading rubric for the final project is as follows:
 
