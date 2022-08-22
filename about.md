@@ -56,7 +56,7 @@ All homework will be rescaled proportionally into the final numerical grade, whi
 
 
 
-### Programming Assignments (Projects) - 40%
+### Programming Assignments (Projects) - 35%
 
 We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides easy access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
 
@@ -69,11 +69,7 @@ The written assignments will mostly be mathematical/computational.  You can scan
 
 The midterm will be similar in format to the written assignments (problem sets). We will be actively monitoring the situation of the pandemic, and decide accordingly to have the exame in-person or taken-home. 
 
-### Participation - 5%
-
-You will receive credit for asking and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class. Be polite and respectful towards the TAs and other students in the class. 
-
-### Final Project - 20%
+### Final Project - 30%
 
 The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. A general guideline is that the final project should be roughly on par with the efforts needed for Project 3 (multiplied by the number of students in the group). The final project report should be 4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
 
@@ -85,6 +81,10 @@ The grading rubric for the final project is as follows:
 * Meaningful Comparison (1-5) Does the author make clear where the problems and methods sit with respect to existing literature? Are any experimental results meaningfully compared with the best prior approaches?
 * Substance (1-5) Does this project have enough substance, or would it benefit from more ideas or results?  Note that this question mainly concerns the amount of work; its quality is evaluated in other categories.
 * Overall (1-5) 
+
+### Participation / Misc. Bonus - up to 5%
+
+You will receive credit for asking good questions and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class. Be polite and respectful towards the TAs and other students in the class. 
 
 
 ## Academic Integrity
