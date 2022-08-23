@@ -10,7 +10,7 @@ Aug 24
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 25
-: [Problem Set 0 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_0.pdf)
+: **[Problem Set 0 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_0.pdf)**
 
 Aug 29
 : [Machine Learning - SVM, optimization]
@@ -21,7 +21,7 @@ Aug 31
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 2
-: [Project 0 due](https://colab.research.google.com/drive/1IBHknL6Ptik3OSdipKRP3mhJR8qufzmt?usp=sharing)
+: **[Project 0 due](https://colab.research.google.com/drive/1IBHknL6Ptik3OSdipKRP3mhJR8qufzmt?usp=sharing)**
 
 TBA
 : [Neural Networks + Backpropagation] 
@@ -44,7 +44,7 @@ TBA
 : [Recurrent Neural Networks]
   : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBA 
+ 
 : [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
   : 
   
