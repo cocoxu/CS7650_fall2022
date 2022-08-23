@@ -2,7 +2,7 @@
 title: Schedule (subject to change as the term progresses)
 ---
 Aug 22
-: [Course Introduction]
+: [Course Introduction](https://cocoxu.github.io/CS7650_fall2022/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 24
