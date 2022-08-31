@@ -6,18 +6,18 @@ Aug 22
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 24
-: [Machine Learning - naive Bayes, logistic regression](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml.pdf)
+: [Machine Learning - naive Bayes](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml-a.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 25
 : **[Problem Set 0 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_0.pdf)**
 
 Aug 29
-: [Machine Learning - SVM, optimization]
+: [Machine Learning - logistic regression](https://cocoxu.github.io/CS7650_fall2022/slides/lec3-ml-b.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 31
-: [Machine Learning - multiclass classification]
+: [Machine Learning - SVM, multiclass, optimization](https://cocoxu.github.io/CS7650_fall2022/slides/lec4-ml-c.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 2
