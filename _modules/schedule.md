@@ -6,7 +6,7 @@ Aug 22
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 24
-: [Machine Learning - naive Bayes](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml-a.pdf)
+: [Machine Learning - naive Bayes](https://cocoxu.github.io/CS7650_fall2022/slides/lec2-ml-a.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec2_lr_notes.pdf)] 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 25
@@ -17,7 +17,7 @@ Aug 29
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 31
-: [Machine Learning - SVM, multiclass, optimization](https://cocoxu.github.io/CS7650_fall2022/slides/lec4-ml-c.pdf)
+: [Machine Learning - Perceptron, SVM, multiclass](https://cocoxu.github.io/CS7650_fall2022/slides/lec4-ml-c.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec4_svm_perceptron_softmax_notes.pdf)] 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 2
