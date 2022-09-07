@@ -23,10 +23,20 @@ Aug 31
 Sep 2
 : **[Project 0 due](https://colab.research.google.com/drive/1IBHknL6Ptik3OSdipKRP3mhJR8qufzmt?usp=sharing)**
 
-TBA
-: [Neural Networks + Backpropagation] 
+Sep 5
+: no class - labor day 
+
+Sep 7
+: [Neural Networks + Backpropagation](https://cocoxu.github.io/CS7650_fall2022/slides/lec5-nn.pdf) 
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
+Sep 13
+: **[Problem Set 1 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_1.pdf)**
+
+Resource 
+: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
+  : 
+  
 TBA
 : [Word Embeddings]
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
@@ -44,9 +54,6 @@ TBA
 : [Recurrent Neural Networks]
   : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Resource 
-: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
-  : 
   
 TBA
 : [Convolutional Neural Networks + Neural CRFs]
