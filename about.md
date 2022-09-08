@@ -46,7 +46,7 @@ There will be a math background test (due in the 1st week) and a programming hom
 
 ## No Auditing
 
-Due to the large demand for this class, we will not be allowing audits or pass/fail. Letter grades only. This is to make sure students who want to take the class for credit can.
+Due to the large demand for this class, we will not be allowing audits or pass/fail. Letter grades only. This is to make sure students who want to take the class for credit can. Students (letter-grade or pass/fail or audit) all must obtain at least 50% grades to pass the class. 
 
 
 ## Assignments / Grading
@@ -55,7 +55,7 @@ Graded work will include both written and programming assignments. Assignments s
 
 Each student will have 5 flexible days to turn in late homework throughout the semester. The late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 3 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late. These 5 late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final project, due to the tight deadline for posting the final grades as required by the university. Late days will be counted in 24-hour chunks and rounded up, i.e., if you are late for 10 hours for a homework, that will count as 1 late day. 
 
-All homework will be rescaled proportionally into the final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester.
+All homework will be rescaled proportionally into the final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester. Students must obtain at least 50% overall grades to pass the class. 
 
 
 
