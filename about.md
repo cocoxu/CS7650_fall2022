@@ -44,9 +44,10 @@ There will be a math background test (due in the 1st week) and a programming hom
 
 (**For students on the wait list:** we don’t have any additional information on whether you will be able to enroll in the course, but if you plan to take the class, please complete and submit Problem Set 0 by the due time (late penalty will apply if submitted later). If you get off the wait list, you will be automatically added to Gradescope after about a day. You can also post a message on [Piazza](https://piazza.com/class/l6vgipz0vsm1kk) to get the access code to Gradescope. If you cannot access Gradescope by the due date, please email your submission to the instructor.)
 
+
 ## No Auditing
 
-Due to the large demand for this class, we will not be allowing audits or pass/fail. Letter grades only. This is to make sure students who want to take the class for credit can. Students (either letter-grade or pass/fail or audit) all must obtain at least 50% grades to pass the class.
+Due to the large demand for this class, we will not be allowing audits or pass/fail. Letter grades only. This is to make sure students who want to take the class for credit can. All students must obtain at least 50% grades to pass the class.
 
 
 ## Assignments / Grading
