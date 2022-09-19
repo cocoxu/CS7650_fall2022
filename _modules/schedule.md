@@ -45,16 +45,18 @@ Sep 15
 : [Word Embeddings, Course Project](https://cocoxu.github.io/CS7650_fall2022/slides/lec7-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
-Sep 20
+Sep 19
 : [Sequence Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec8-seq1.pdf)
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+Sep 21
+: [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 
 Sep 27
 : **[Project 1 due](https://drive.google.com/file/d/1iAuODWLdBKK8_QF6bTdUnW9WC0xLg2ql/view?usp=sharing)**
 
-TBA
-: [Conditional Random Fields]
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 
 TBA
