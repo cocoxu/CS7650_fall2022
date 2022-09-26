@@ -28,11 +28,11 @@ Sep 5
 
 Sep 7
 : [Neural Networks - Feedforward](https://cocoxu.github.io/CS7650_fall2022/slides/lec5-nn.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec5_xor_notes.pdf)] 
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
 Sep 12
 : [Neural Networks - Backpropagation, optimization](https://cocoxu.github.io/CS7650_fall2022/slides/lec6-nn2.pdf) 
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
 Resource 
 : [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2022/slides/PyTorch_tutorial.pdf)
@@ -43,7 +43,7 @@ Sep 13
   
 Sep 15
 : [Word Embeddings, Course Project](https://cocoxu.github.io/CS7650_fall2022/slides/lec7-word2vec.pdf)
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
 Sep 19
 : [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_fall2022/slides/lec8-seq1.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec8_hmm_viterbi_notes.pdf)] 
@@ -53,20 +53,17 @@ Sep 21
 : [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Sep 26
+: [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2lec10-rnn.pdf)
+  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 Sep 27
 : **[Project 1 due](https://drive.google.com/file/d/1iAuODWLdBKK8_QF6bTdUnW9WC0xLg2ql/view?usp=sharing)**
 
 
-
-TBA
-: [Recurrent Neural Networks]
-  : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
-  
 TBA
 : [Convolutional Neural Networks + Neural CRFs]
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)  [Goldberg 9](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
 TBA
 : [Machine Translation]
