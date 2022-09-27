@@ -54,7 +54,7 @@ Sep 21
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 26
-: [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2/lec10-rnn.pdf)
+: [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec10-rnn.pdf)
   : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 Sep 27
