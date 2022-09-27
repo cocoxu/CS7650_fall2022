@@ -41,7 +41,7 @@ Resource
 Sep 13
 : **[Problem Set 1 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_1.pdf)**
   
-Sep 15
+Sep 14
 : [Word Embeddings, Course Project](https://cocoxu.github.io/CS7650_fall2022/slides/lec7-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
@@ -54,12 +54,15 @@ Sep 21
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 26
-: [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec10-rnn.pdf)
-  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+: [Conditional Random Fields (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 27
 : **[Project 1 due](https://drive.google.com/file/d/1iAuODWLdBKK8_QF6bTdUnW9WC0xLg2ql/view?usp=sharing)**
 
+Sep 28
+: [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec10-rnn.pdf)
+  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 TBA
 : [Convolutional Neural Networks + Neural CRFs]
