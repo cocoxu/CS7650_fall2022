@@ -54,7 +54,7 @@ Sep 21
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 26
-: [Conditional Random Fields (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2.pdf)
+: [Conditional Random Fields (cont')](https://cocoxu.github.io/CS7650_fall2022/slides/lec9-seq2.pdf) [[lecture note](https://cocoxu.github.io/CS7650_fall2022/slides/lec9_crf_ner_notes.pdf)]
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 27
