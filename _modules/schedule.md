@@ -65,7 +65,7 @@ Sep 28
   : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 Oct 7
-: **[Problem Set 1 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_1.pdf)**
+: **[Problem Set 2 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_2.pdf)**
   
 Oct 12
 : **Course Project Proposal due**
