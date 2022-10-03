@@ -64,15 +64,15 @@ Sep 28
 : [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2022/slides/lec10-rnn.pdf)
   : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
+Oct 3
+: [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2022/slides/lec11-cnn.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
+
 Oct 7
 : **[Problem Set 2 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_2.pdf)**
   
 Oct 12
 : **Course Project Proposal due**
-  
-TBA
-: [Convolutional Neural Networks + Neural CRFs]
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
 TBA
 : [Machine Translation]
@@ -87,7 +87,7 @@ TBA
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
 TBA
-: [Transformer (cont') + Course Project]
+: [Transformer (cont')]
   : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
   
 TBA
