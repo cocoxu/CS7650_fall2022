@@ -68,15 +68,15 @@ Oct 3
 : [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2022/slides/lec11-cnn.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
+Oct 5
+: [Machine Translation](https://cocoxu.github.io/CS7650_fall2022/slides/lec12-mt.pdf)
+  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Oct 7
 : **[Problem Set 2 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_2.pdf)**
   
 Oct 12
 : **Course Project Proposal due**
-
-TBA
-: [Machine Translation]
-  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
 : [Encoder-Decoder + Attention]
