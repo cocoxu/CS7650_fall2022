@@ -76,7 +76,7 @@ Oct 7
 : **[Problem Set 2 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_2.pdf)**
   
 Oct 12
-: **Course Project Proposal due**
+: **Course Project Proposal due (instructions on Gradescope)**
 
 TBA
 : [Encoder-Decoder + Attention]
