@@ -79,8 +79,8 @@ Oct 10
 : [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2022/slides/lec13-seq2seq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
-Oct 12 no class
-: **Course Project Proposal due (instructions on Gradescope)**
+Oct 12 
+: **No class - Course Project Proposal due (instructions on Gradescope)**
 
 TBA
 : [Copy/Pointer Network + Transformer]
