@@ -76,7 +76,7 @@ Oct 7
 : **[Problem Set 2 due](https://cocoxu.github.io/CS7650_fall2022/slides/CS7650_Problem_Set_2.pdf)**
 
 Oct 10
-: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2022/slides/13-seq2seq.pdf)
+: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2022/slides/lec13-seq2seq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 Oct 12 no class
