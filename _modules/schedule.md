@@ -82,6 +82,18 @@ Oct 10
 Oct 12 
 : **No class - Course Project Proposal due (instructions on Gradescope)**
 
+Oct 17
+: No class - Fall Break
+
+Oct 19
+: No class - reading day
+
+Oct 24
+: **[Project 2 due - updated 10/11, refresh!](https://colab.research.google.com/drive/1-Z1p8r5rUw-Znekx1p5nBGZ2vko5RKu4?usp=sharing)
+
+Oct 31 
+: **In-class Midterm**
+
 TBA
 : [Copy/Pointer Network + Transformer]
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
