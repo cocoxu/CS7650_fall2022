@@ -89,10 +89,10 @@ Oct 19
 : No class - reading day
 
 Oct 24
-: **[Project 2 due - updated 10/11, refresh!](https://colab.research.google.com/drive/1-Z1p8r5rUw-Znekx1p5nBGZ2vko5RKu4?usp=sharing)
+: **[Project 2 due - updated 10/11, refresh!](https://colab.research.google.com/drive/1-Z1p8r5rUw-Znekx1p5nBGZ2vko5RKu4?usp=sharing)**
 
 Oct 31 
-: **In-class Midterm**
+: **[In-class Midterm]()**
 
 TBA
 : [Copy/Pointer Network + Transformer]
