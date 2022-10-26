@@ -94,6 +94,9 @@ Oct 24
 Oct 26
 : [Neural MT + Generation](https://cocoxu.github.io/CS7650_fall2022/slides/lec14-seq2seq-2.pdf)
   : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
+
+Oct 29
+: [Withdrawal/Dropping Deadline](https://registrar.gatech.edu/registration/withdrawal-and-dropping-courses)
   
 Oct 31 
 : **[In-class Midterm]()**
