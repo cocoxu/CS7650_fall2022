@@ -91,16 +91,16 @@ Oct 19
 Oct 24
 : **[Project 2 due - updated 10/11, refresh!](https://colab.research.google.com/drive/1-Z1p8r5rUw-Znekx1p5nBGZ2vko5RKu4?usp=sharing)**
 
+Oct 26
+: [Neural MT + Generation](https://cocoxu.github.io/CS7650_fall2022/slides/lec14-seq2seq-2.pdf)
+  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
+  
 Oct 31 
 : **[In-class Midterm]()**
 
 TBA
-: [Copy/Pointer Network + Transformer]
+: [Transformer]
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
-
-TBA
-: [Transformer (cont')]
-  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
   
 TBA
 : [Information Extraction]
