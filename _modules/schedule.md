@@ -92,19 +92,15 @@ Oct 24
 : **[Project 2 due - updated 10/11, refresh!](https://colab.research.google.com/drive/1-Z1p8r5rUw-Znekx1p5nBGZ2vko5RKu4?usp=sharing)**
 
 Oct 26
-: [Neural MT + Generation](https://cocoxu.github.io/CS7650_fall2022/slides/lec14-seq2seq-2.pdf)
-  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
-
+: [Neural MT + Generation](https://cocoxu.github.io/CS7650_fall2022/slides/lec14-nmt.pdf)
+  : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
+  
 Oct 31 
 : **[In-class Midterm]()**
 
-TBA
-: [Transformer]
+Nov 2
+: [Copy/Pointer + Transformer](https://cocoxu.github.io/CS7650_fall2022/slides/lec15-transformer.pdf)
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
-  
-TBA
-: [Information Extraction]
-  : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBA
 : [Pretrained Language Models]
