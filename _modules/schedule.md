@@ -102,8 +102,8 @@ Nov 2
 : [Copy/Pointer + Transformer](https://cocoxu.github.io/CS7650_fall2022/slides/lec15-transformer.pdf)
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
-TBA
-: [Pretrained Language Models]
+Nov 7
+: [Pretrained Language Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec16-plm1.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 TBA
