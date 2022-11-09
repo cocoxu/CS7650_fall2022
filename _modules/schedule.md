@@ -106,8 +106,8 @@ Nov 7
 : [Pretrained Language Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec16-plm1.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
-TBA
-: [Pretrained Language Models (cont') + Ethics]
+Nov 9
+: [Pretrained Language Models (cont') + Ethics](https://cocoxu.github.io/CS7650_fall2022/slides/lec17-plm2.pdf)
   : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
 
 TBA
