@@ -88,7 +88,7 @@ The grading rubric for the final project is as follows:
 
 ### Participation / Misc. Bonus - up to 5%
 
-You will receive credit for asking good questions and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class. Be polite and respectful towards the TAs and other students in the class. 
+You will receive credit for asking good questions and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class. Be polite and respectful towards the teaching staff and other students in the class. 
 
 
 ## Academic Integrity
