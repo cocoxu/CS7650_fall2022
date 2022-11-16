@@ -114,8 +114,8 @@ Nov 14
 : [Dialogue](https://cocoxu.github.io/CS7650_fall2022/slides/lec18-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf), [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf) 
 
-TBA
-: [Question Answering]
+Nov 16
+: [Question Answering](https://cocoxu.github.io/CS7650_fall2022/slides/lec19-qa.pdf)
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 TBA
