@@ -118,6 +118,9 @@ Nov 16
 : [Question Answering](https://cocoxu.github.io/CS7650_fall2022/slides/lec19-qa.pdf)
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
+Nov 21
+: **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
+
 TBA
 : [Multilingual / Cross-lingual Models]
   : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf)
