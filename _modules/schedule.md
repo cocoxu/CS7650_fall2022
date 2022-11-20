@@ -124,9 +124,16 @@ Nov 21
 Nov 21
 : **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
 
-TBA
+Nov 23
+: No class - Thanksgiving
+
+Nov 28
 : [Multilingual / Cross-lingual Models]
   : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf)
+  
+Nov 30 
+: Guest Lecture - [Jack Hessel (AI2)](https://jmhessel.com/)
+
 
 Dec 9
 : Final Project Reports Due (submit on Gradescope - no late days allowed)
