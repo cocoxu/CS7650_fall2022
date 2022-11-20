@@ -119,6 +119,9 @@ Nov 16
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf), [UnifiedQA](https://arxiv.org/pdf/2005.00700.pdf)
 
 Nov 21
+: Guest Lecture - [Colin Cherry (Google Research)](https://sites.google.com/site/colinacherry/)
+
+Nov 21
 : **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
 
 TBA
