@@ -108,7 +108,7 @@ Nov 7
 
 Nov 9
 : [Pretrained Language Models (cont') + Ethics](https://cocoxu.github.io/CS7650_fall2022/slides/lec17-plm2.pdf)
-  : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
+  : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf), [PaLM](https://arxiv.org/pdf/2204.02311.pdf) 
 
 Nov 14
 : [Dialogue](https://cocoxu.github.io/CS7650_fall2022/slides/lec18-dialogue.pdf)
@@ -116,7 +116,7 @@ Nov 14
 
 Nov 16
 : [Question Answering](https://cocoxu.github.io/CS7650_fall2022/slides/lec19-qa.pdf)
-  : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+  : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf), [UnifiedQA](https://arxiv.org/pdf/2005.00700.pdf)
 
 Nov 21
 : **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
