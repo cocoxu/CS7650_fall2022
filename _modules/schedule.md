@@ -128,12 +128,17 @@ Nov 23
 : No class - Thanksgiving
 
 Nov 28
-: [Multilingual / Cross-lingual Models]
-  : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf)
+: [Multilingual / Cross-lingual Models](https://cocoxu.github.io/CS7650_fall2022/slides/lec20-multilingual.pdf)
+  : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf), [TyDiQA](https://arxiv.org/pdf/2003.05002.pdf)
   
 Nov 30 
 : Guest Lecture - [Jack Hessel (AI2)](https://jmhessel.com/)
 
+Dec 5
+: No class
+
+Dec 9 
+: **[Final Project Presentation (2:40-5:30pm, same classroom)]**
 
 Dec 9
-: Final Project Reports Due (submit on Gradescope - no late days allowed)
+: Presentation Reports Due (submit on Gradescope - no late days allowed)
